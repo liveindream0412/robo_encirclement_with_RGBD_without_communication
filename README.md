@@ -135,3 +135,5 @@
   --camera_video_length 800 \
   --camera_video_fps 30
 补充说明：项目已完整实现强化学习微调训练脚本，经实测，RL 微调后策略性能、队形稳定性与纯行为克隆预训练效果基本一致，BC 策略已完全满足围捕任务需求。
+
+https://github.com/user-attachments/assets/71d63565-8b69-4054-a997-7d3ed69a7904
